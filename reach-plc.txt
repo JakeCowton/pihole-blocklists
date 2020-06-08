@@ -1,0 +1,22 @@
+# Reach PLC Sites
+
+express.co.uk
+mirror.co.uk
+dailystart.co.uk
+liverpoolecho.co.uk
+manchestereveningnews.co.uk
+dailyrecord.co.uk
+birminghammail.co.uk
+walesonline.co.uk
+chroniclelive.co.uk
+irishmirror.ie
+football.london
+ok.co.uk
+bristolpost.co.uk
+hulldailymail.co.uk
+derbytelegraph.co.uk
+nottinghampost.com
+devonlive.com
+gazettelive.co.uk
+stokesentinel.co.uk
+leicestermercury.co.uk
